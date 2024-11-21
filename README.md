@@ -73,7 +73,7 @@ You have wasted $6. Thanks for playing!
 <p>This project showcases my ability to develop interactive, real-world simulations using Python. It reflects my skills in problem-solving, logic design, and user-centric programming. It's a testament to my ability to turn complex rules into functional code.</p>
 
 <h2>GitHub Repository</h2>
-<p>Access the full project code here: <a href="https://github.com/YourUsername/Powerball-Simulation" target="_blank">Powerball Lottery Simulation</a></p>
+<p>Access the full project code here: <a href="https://github.com/yusuftechx/powerball-game" target="_blank">Powerball Lottery Simulation</a></p>
 
 <h2>Conclusion</h2>
 <p>The Powerball Lottery Simulation is more than just a game—it's a demonstration of Python programming capabilities, attention to detail, and creativity. Thank you for taking the time to explore my work!</p>
