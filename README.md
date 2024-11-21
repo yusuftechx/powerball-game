@@ -1,6 +1,6 @@
 <h1>Hi, I am YusuftechX!</h1>
 
-<h2>This is my Powerball Lottery Simulation</h2>
+<h2>Powerball Lottery Simulation</h2>
 
 <p>This Python project simulates the thrill of playing the Powerball Lottery without spending any money. It provides a hands-on experience with probability, user interaction, and Python programming, showcasing various programming concepts and techniques.</p>
 
